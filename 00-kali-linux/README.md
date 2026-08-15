@@ -24,9 +24,9 @@ Linux and cybersecurity skills through hands-on experimentation.
 
 
 
-| Component | Details |
+| Component : Details |
 
-|---|---|
+|---:---|
 
 | Operating System : Kali Linux 2026.1 |
 
