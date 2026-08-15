@@ -72,6 +72,38 @@ Linux and cybersecurity skills through hands-on experimentation.
 
 
 
+\## 🌐 Network Configuration
+
+
+
+| Setting : Value |
+
+|---:---|
+
+| Network Adapter : NAT |
+
+| Interface : eth0 |
+
+| IP Address : 192.168.191.128 |
+
+| Subnet : 192.168.191.0/24 |
+
+| Default Gateway : 192.168.191.2 |
+
+| DNS : 192.168.191.2 |
+
+
+
+\### Connectivity Test
+
+
+
+Internet connectivity was tested using:
+
+ping -c 4 google.com
+
+
+
 \## 📚 Skills I'm Practicing
 
 
