@@ -4,7 +4,7 @@ Welcome to my homelab!
 
 ## 👨🏾‍💻 About Me
 
-👨🏾‍💻 Joshua Temenu
+Joshua Temenu
 Entry-Level IT / Cybersecurity
 Linux | Networking | Systems Administration | Security
 
