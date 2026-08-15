@@ -2,6 +2,16 @@
 
 Welcome to my homelab!
 
+## 👨🏾‍💻 About Me
+
+👨🏾‍💻 Joshua Temenu
+Entry-Level IT / Cybersecurity
+Linux | Networking | Systems Administration | Security
+
+I'm building hands-on experience through homelab projects focused on
+infrastructure, networking, system administration, cybersecurity,
+cloud, and automation.
+
 This repository documents my journey learning:
 
 - 🐧 Linux
@@ -12,7 +22,9 @@ This repository documents my journey learning:
 
 ## 🎯 My Goal
 
-Build hands-on experience by creating, configuring, securing,
+To progress from foundational IT skills into a
+cybersecurity engineering role through practical experience and
+continuous learning by creating, configuring, securing,
 breaking, troubleshooting, and documenting real IT environments.
 
 ## 🚧 Projects
