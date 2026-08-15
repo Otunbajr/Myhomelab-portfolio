@@ -28,23 +28,23 @@ Linux and cybersecurity skills through hands-on experimentation.
 
 |---|---|
 
-| Operating System | Kali Linux 2026.1 |
+| Operating System : Kali Linux 2026.1 |
 
-| Architecture | amd64 |
+| Architecture : amd64 |
 
-| Hypervisor | VMware Workstation |
+| Hypervisor : VMware Workstation |
 
-| Host Operating System | Windows |
+| Host Operating System : Windows |
 
-| Terminal | PowerShell |
+| Terminal : PowerShell |
 
-| vCPU | 4 |
+| vCPU : 4 |
 
-| RAM | 4 GB |
+| RAM : 4 GB |
 
-| Storage | 80.1 GB |
+| Storage : 80.1 GB |
 
-| Network Adapter | NAT |
+| Network Adapter : NAT |
 
 
 
